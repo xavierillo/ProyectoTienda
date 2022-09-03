@@ -1,2 +1,6 @@
 # ProyectoTienda
-proyecto para evaluar  forma de trabjo
+# para compilar el servidor ejecutar
+# nodemon app
+
+# para ejecutar proyecto 
+# npm start 

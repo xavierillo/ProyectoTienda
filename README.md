@@ -1,6 +1,6 @@
 # ProyectoTienda
-# para compilar el servidor ejecutar
+# para compilar la ejecución del servidor
 # nodemon app
 
-# para ejecutar proyecto 
+# para compilar la ejecución del proyecto 
 # npm start 
